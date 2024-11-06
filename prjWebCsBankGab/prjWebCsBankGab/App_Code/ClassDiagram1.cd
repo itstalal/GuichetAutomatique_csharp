@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="prjWebCsBankGab.App_Code.clsDate2">
+    <Position X="8.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAAAAAAAIAAAAKAAAACAAEAAAAAAgAAAAIAAAAA=</HashCode>
+      <FileName>App_Code\clsDate2.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="prjWebCsBankGab.App_Code.clsListeClient">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAAAAgAEAAAAAQwBAAAAAAAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>App_Code\clsListeClient.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="prjWebCsBankGab.App_Code.clsClient" Collapsed="true">
+    <Position X="4" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAEAACAAAAAoAAAYCAAACAAAgAEAAEAAAABAAA=</HashCode>
+      <FileName>App_Code\clsClient.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="prjWebCsBankGab.App_Code.clsCompte" Collapsed="true">
+    <Position X="6.25" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAIAAEAADAACAAAAAAAAAAACABBAAgAQUAAAABAAg=</HashCode>
+      <FileName>App_Code\clsCompte.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="prjWebCsBankGab.App_Code.clsListCompte">
+    <Position X="6.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAAAAgAEAAAAAQwBAAAAAAAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>App_Code\clsListCompte.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
